@@ -4,7 +4,7 @@
 
 LBM (ILBM) image to TGA (Truevision TARGA) to LBM (ILBM) image Converter **(Windows Command-Line App)** <br>
 <br>
-**LBM <-> TGA <-> LBM** ***- - - Bidirectional-Converter*** <br>
+**LBM <-> TGA <-> LBM** ***[ Bidirectional-Converter ]*** <br>
 <br>
 **.LBM , Interleaved Bitmap (ILBM) is an image file format that adheres to the Interchange File Format (IFF) standard,** <br>
 **This format originated on the Amiga platform and IBM-compatible systems.** <br>
