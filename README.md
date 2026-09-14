@@ -12,6 +12,6 @@ LBM (ILBM) image to TGA (Truevision TARGA) to LBM (ILBM) image Converter **(Wind
 <br>
 ***LBM (ILBM) format was used in many Amiga and MS-DOS PC games.*** <br>
 <br>
-**EMX / PhRoZeN CReW (1997) - ISTANBUL 2026**
+**Code & design by: EMX / PhRoZeNCReW (1997) - ISTANBUL 2026**
 
 
