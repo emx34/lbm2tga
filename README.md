@@ -2,7 +2,7 @@
 
 # LBM-to-TGA Converter
 
-LBM (ILBM) image to TGA (Truevision TARGA) to LBM (ILBM) image Converter (Windows Command-Line App) <br>
+LBM (ILBM) image to TGA (Truevision TARGA) to LBM (ILBM) image Converter **(Windows Command-Line App)** <br>
 <br>
 **LBM <-> TGA <-> LBM** <br>
 <br>
