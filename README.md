@@ -1,3 +1,7 @@
+<script type="text/javascript">
+  alert('test test test');
+</script>
+
 <img width="1335" height="722" alt="lbm_LOGO3" src="https://github.com/user-attachments/assets/0de6651b-8a73-410c-b181-4321d6e5c17a" />
 
 # LBM-to-TGA Converter v1.0
