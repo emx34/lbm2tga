@@ -15,5 +15,6 @@ LBM (ILBM) image to TGA (Truevision TARGA) to LBM (ILBM) image Converter >>> **(
 ***LBM (ILBM) format was used in many Amiga and MS-DOS PC games.*** <br>
 <br>
 **Code & design by: EMX / PhRoZeNCReW (1997) - ISTANBUL 2026**
+<br><br> ___ **Contact:** https://www.vogons.org/viewforum.php?f=7 * (DOS Games/Apps): em34 <br>
 
 
